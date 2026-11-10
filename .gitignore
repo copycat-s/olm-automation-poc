@@ -1,0 +1,7 @@
+accounts.json
+accounts.json.*
+debug/
+payload_dumps/
+*.pyc
+__pycache__/
+.env
